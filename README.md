@@ -3,7 +3,7 @@
 
 ## start a test
   * `cd example_1`
-  * `go test ./`
+  * `go test`
 
 ## content
   * `example_1` - test printf
